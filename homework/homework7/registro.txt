@@ -1,0 +1,8 @@
+//register to know that they are already here
+check: Yexalen
+check: Frida
+check: Maria
+check: Diego
+check: Paola
+check: Frida
+check: Pedro
