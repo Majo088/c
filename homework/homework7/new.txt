@@ -1,0 +1,16 @@
+//new users that are getting into de "database"
+id and name: 6 armandina 
+days of the week: 0 1 1 1 1 1 1
+hour: 8 30 
+id and name: 4 laura 
+days of the week: 1 1 1 1 1 1 0
+hour: 7 0 0
+id and name: 7 luz 
+days of the week: 0 1 1 0 1 1 0
+hour: 9 30 32755
+ id and name: 10 josue 
+days of the week: 1 1 1 1 0 0 0
+hour: 6 30 32526
+ id and name: 13 mariana 
+days of the week: 0 1 0 1 0 1 0
+hour: 13 0 0
