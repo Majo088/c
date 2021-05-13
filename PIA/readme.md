@@ -119,7 +119,7 @@ void newclient(){
     printf("succesful register, welcome\n\n");
    
     FILE* client = fopen("clientinfo.txt", "a");
-    fprintf(client," stablishment to rent: %d name of the person: %d %s \n",stablishment, user);
+    fprintf(client," stablishment to rent: %d name of the person:%s \n",stablishment, user);
     fclose(nuevous);
 ```
 Here what the new client is doing is adding its information to the file clientinfo.txt
