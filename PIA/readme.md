@@ -72,11 +72,11 @@ december(NOT AVAILABLE)
 ```
 This will be the menu where the user will select what he or she wants to do, by just selecting a number that is showing (the menu).
 
-    #include <stdio.h>
-    #include <stdlib.h>
-    #define NAME 10
-    #define Work 16
-	#define MAX 30
+  ```c
+#include <stdio.h>
+#include <stdlib.h>
+#define NAME 10
+#define MAX 30
 	
 	int op;
 	
@@ -90,7 +90,8 @@ This will be the menu where the user will select what he or she wants to do, by 
  	printf("Insert the number: ");
 	scanf("%d",&op);
 	}
- 
+    
+```
  [1] Information: it will appear the information of the stablishments that are on the mall
  [2] registration of a new client: here you will make the registration of the person who wants to rent by introduccing they that like; the age,gender, name, and the stablish it wants to rent. Also here they will enter the stablishment that he/she wants to rent and it will appear if its available or not.
  [3] available stablishment: it will appear the ones that are available
