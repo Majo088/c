@@ -72,8 +72,8 @@ december(NOT AVAILABLE)
 ```
 This will be the menu where the user will select what he or she wants to do, by just selecting a number that is showing (the menu).
 
-    	#include <stdio.h>
-	#include <stdlib.h>
+    #include <stdio.h>
+    #include <stdlib.h>
     #define NAME 10
     #define Work 16
 	#define MAX 30
@@ -101,8 +101,8 @@ This will be the menu where the user will select what he or she wants to do, by 
     | -------------------------WELCOME TO SUNCITY MALL RENTS--------------|
     [1] Information
     [2] Registration of a new client 
-	[3] available stablishment
-	[4] close 
+    [3] available stablishment
+    [4] close 
 	Insert the number: 
 
 　
