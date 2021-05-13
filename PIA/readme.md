@@ -20,7 +20,7 @@ The information that will be storage on the different files will be:
 
 ###FILES ON THE PROGRAM
 
-- stablisment information
+-stablisment information
 -information.txt  (will include price)
 -clientsinfo.txt  (storage and you can add people)
 -months.txt
@@ -90,7 +90,10 @@ This will be the menu where the user will select what he or she wants to do, by 
  	printf("Insert the number: ");
 	scanf("%d",&op);
 	}
-    
+ 
+ [1] Information: it will appear the information of the stablishments that are on the mall
+ [2] registration of a new client: here you will make the registration of the person who wants to rent by introduccing they that like; the age,gender, name, and the stablish it wants to rent. Also here they will enter the stablishment that he/she wants to rent and it will appear if its available or not.
+ [3] available stablishment: it will appear the ones that are available
     
 (How it will appear):
 
@@ -102,8 +105,8 @@ This will be the menu where the user will select what he or she wants to do, by 
 	[4] close 
 	Insert the number: 
 
-####C 　
-registration of the client that is renting
+　
+Registration of the client that is renting
 ```c
 void newclient(){
     char user[MAX];
@@ -119,6 +122,8 @@ void newclient(){
     fprintf(client," stablishment to rent: %d name of the person: %d %s \n",stablishment, user);
     fclose(nuevous);
 ```
+Here what the new client is doing is adding its information to the file clientinfo.txt
+
 references:
 [info de renta de locales](https://inmuebles.mercadolibre.com.mx/locales-comerciales/renta-local-paseo-la-fe-san-nicolas-de-los-garzahttp:// "references")
 
