@@ -45,11 +45,10 @@ information.txt
 clientsinfo.txt
  ```c
 clients information:
-		NAME:
-		AGE:
-		GENDER:
-		STABLISHMENT IS USING:
-		PAYS BY MONTH: 
+STABLISHMENT IS RENTING:
+GENDER:
+NAME:
+AGE:		
 ```
 
 months.txt
@@ -112,15 +111,20 @@ Registration of the client that is renting
 void newclient(){
     char user[MAX];
     int stablishment;
+    char gender;
+    int age;
     
     printf("Introduce your name: %s \n", user);
+    printf("age: %d",age);
+    printf("gender: %s", gender);
     printf("Entry the stablishment you will like to rent: \n");
     scanf("%d", stablishment);
+    /*include an "if" condition to know if the stablishment is available or not*/
     
     printf("succesful register, welcome\n\n");
    
     FILE* client = fopen("clientinfo.txt", "a");
-    fprintf(client," stablishment to rent: %d name of the person:%s \n",stablishment, user);
+    fprintf(client," stablishment is renting: %d\n GENDER: %s\n NAME:%s\n AGE: %s\n",stablishment,gender,user,age);
     fclose(nuevous);
 ```
 Here what the new client is doing is adding its information to the file clientinfo.txt
