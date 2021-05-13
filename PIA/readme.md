@@ -5,8 +5,8 @@ PIA-Description of the proyect
 
 
 ##PROYECT DESCRIPTION 
-The program will try to provide information to rent the premises that are in the shopping center, where this same program will provide information on prices, space of the premises, available months.
-If you as a client who wants to rent this space, your data will be saved and you will be able to see what premises are available.
+The program will try to provide information to rent the stablishments that are in the shopping center, where this same program will provide information on prices, space of the stablishment,available months,etc.
+If you as a client who wants to rent this space, your data will be saved and you will be able to see what locals are available.
 
 
 ###INFORMATION STORAGE
@@ -27,7 +27,7 @@ The information that will be storage on the different files will be:
 -info.h
 
 
-###Programming (files)
+#Programming (files)
 information.txt
 ```c
 					    suncity mall information: 
@@ -128,4 +128,4 @@ Here what the new client is doing is adding its information to the file clientin
 references:
 [info de renta de locales](https://inmuebles.mercadolibre.com.mx/locales-comerciales/renta-local-paseo-la-fe-san-nicolas-de-los-garzahttp:// "references")
 
-###End
+
