@@ -111,8 +111,7 @@ void newclient(){
     char user[MAX];
     int stablishment;
     
-    printf("Introduce your name:\n", pin);
-	scanf("%s,user");
+    printf("Introduce your name: %s \n", user);
     printf("Entry the stablishment you will like to rent: \n");
     scanf("%d", stablishment);
     
