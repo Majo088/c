@@ -95,7 +95,8 @@ This will be the menu where the user will select what he or she wants to do, by 
     [5] close
 	Insert the number: 
 During the creation of the program I reread the book as well as I saw tutorials to have a better image of the things I wanted to do.
-For the void of info and for the one of available I base on the program of this video:[How to read files] (https://www.youtube.com/watch?v=8nIilb2kiSU&ab_channel=thenewboston:// "references")
+For the void of info and for the one of available I base on the program of this video:[How to read files](https://www.youtube.com/watch?v=8nIilb2kiSU&ab_channel=thenewboston:// "references")
+[How to read files] (https://www.youtube.com/watch?v=8nIilb2kiSU&ab_channel=thenewboston:// "references")
 
 ```c
 void info(){
