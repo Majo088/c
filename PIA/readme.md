@@ -4,7 +4,7 @@ PIA-Description of the proyect
 
 youtube link: 
 
-GDB online compiler program: https://onlinegdb.com/wGEwcSdjH
+GDB online compiler program: https://onlinegdb.com/V2MZDluLN
 
 ##PROYECT DESCRIPTION 
 The program will try to provide information to rent the stablishments that are in the shopping center, where this same program will provide information on prices, space of the stablishment,available months,etc.
@@ -94,7 +94,7 @@ This will be the menu where the user will select what he or she wants to do, by 
     [2] Registration of a new client 
     [3] available establishment
     [4] my information
-    [5] close
+    [5] close the program
 	Insert the number: 
 During the creation of the program I reread the book as well as I saw tutorials to have a better image of the things I wanted to do.
 For the void of info and for the one of available I base on the program of this video:[How to read files](https://www.youtube.com/watch?v=8nIilb2kiSU&ab_channel=thenewboston:// "references"), because I wanted to read each line of the program and I was having troubles, but at the end I got it.
