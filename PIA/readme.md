@@ -2,7 +2,8 @@ PIA-Description of the proyect
 
 # SUNCITY MALL 
 
-
+youtube link:
+GDB online compiler program: https://onlinegdb.com/VZqkVo2gM
 
 ##PROYECT DESCRIPTION 
 The program will try to provide information to rent the stablishments that are in the shopping center, where this same program will provide information on prices, space of the stablishment,available months,etc.
@@ -17,9 +18,9 @@ The information that will be storage on the different files will be:
 -available months 
 -the measurements of the stablishment 
 
-###FILES ON THE PROGRAM
-
--establisment information
+#COMPILE THE PROGRAM 
+To compile the program you need to include all the files that are on my repository on the folder that says "PIA" there you will find the following files:
+-pia.c
 -information.txt  (will include price)
 -clientsinfo.txt  (storage and you can add people)
 -available.txt
