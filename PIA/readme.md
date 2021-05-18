@@ -2,7 +2,8 @@ PIA-Description of the proyect
 
 # SUNCITY MALL 
 
-youtube link: \n
+youtube link: 
+
 GDB online compiler program: https://onlinegdb.com/VZqkVo2gM
 
 ##PROYECT DESCRIPTION 
