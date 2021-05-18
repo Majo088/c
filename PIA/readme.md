@@ -98,8 +98,9 @@ During the creation of the program I reread the book as well as I saw tutorials 
 For the void of info and for the one of available I base on the program of this video:[How to read files](https://www.youtube.com/watch?v=8nIilb2kiSU&ab_channel=thenewboston:// "references")
 ```c
 void info(){
-       char line[MAX];
+ char line[MAX];
  FILE*fpointer =fopen("info.txt","r");
+ //part taken from the video
  while(!feof(fpointer)){
  fgets(line, MAX, fpointer);
  printf("%s",line);
@@ -110,6 +111,7 @@ void info(){
 void available(){
 char line[MAX];
 FILE*months =fopen("available.txt","r");
+//part taken from the video
 while(!feof(months)){
 fgets(line, MAX, months);
 printf("%s",line);
