@@ -45,10 +45,11 @@ information.txt
 
 clientsinfo.txt
  ```c
-NAME: ana
-AGE: 20
+NAME: majo
+AGE: 28
 GENDER: F
-ESTABLISMENT: 4		
+ESTABLISMENT: 2
+REGISTERED AT: Wed May 19 16:12:59 2021	
 ```
 
 months.txt
