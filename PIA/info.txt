@@ -1,0 +1,12 @@
+		    suncity mall information: 
+		Establishment on the 1st floor
+		NUMBER OF ESTABLISMENTS: 1,2,5,8
+		measures: 248m2
+		price: $9,000 per month 
+		antiquity: 3 years 
+	
+		Establishment on the 2nd floor
+		NUMBER OF ESTABLISMENTS: 3,4,6,7
+		measures: 50m2
+		price: $5,000 per month
+		antiquity:5 year
