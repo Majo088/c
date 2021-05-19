@@ -78,10 +78,10 @@ december(NOT AVAILABLE)
 
 ESTABLISHMENTS AVAILABLE THE WHOLE YEAR:
 
-establishment #3
+establishment #2
 establishment #4
+establishment #6
 establishment #8
-establishment #1
 
 
 ```
