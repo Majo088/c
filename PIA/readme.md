@@ -21,10 +21,15 @@ The information that will be storage on the different files will be:
 
 #COMPILE THE PROGRAM 
 To compile the program you need to include all the files that are on my repository on the folder that says "PIA" there you will find the following files:
+
 -pia.c
+
 -information.txt  (will include price)
+
 -clientsinfo.txt  (storage and you can add people)
+
 -available.txt
+
 -file.h
 
 
