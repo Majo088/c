@@ -1,0 +1,23 @@
+MONTHS WITH SPACE:
+
+january (available)
+february (available)
+march (available)
+april (available)
+may (2 places to rent)
+june (available)
+july  (1 place to rent)
+agust (NOT AVAILABLE)
+september(1 place to rent)
+
+MONTHS NOT AVAILABLE: 
+
+november(NOT AVAILABLE)
+december(NOT AVAILABLE)
+
+ESTABLISHMENTS AVAILABLE THE WHOLE YEAR:
+
+establishment #2
+establishment #4
+establishment #6
+establishment #8
