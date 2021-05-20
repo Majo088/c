@@ -141,5 +141,7 @@ fclose(months);
 For the information of the establishments I decided to base myself in real places and give me an idea of the cost ($) of each establishment that people rent in real life: [info de renta de locales](https://inmuebles.mercadolibre.com.mx/locales-comerciales/renta-local-paseo-la-fe-san-nicolas-de-los-garzahttp:// "references")
 
 references: 
+
 [info de renta de locales](https://inmuebles.mercadolibre.com.mx/locales-comerciales/renta-local-paseo-la-fe-san-nicolas-de-los-garzahttp:// "references")
+
 [How to read files](https://www.youtube.com/watch?v=8nIilb2kiSU&ab_channel=thenewboston:// "references")
