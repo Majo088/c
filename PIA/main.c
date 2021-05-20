@@ -24,7 +24,7 @@ printf("Registered at: %s\n\n", ctime(&tiempoahora));
 }
   int main(){
       
-do{   
+do{   //start menu
   printf("--START MENU--\n");
   printf("---WELCOME TO SUNCITY MALL RENTS---\n");
   printf("[1] Information\n");
@@ -32,7 +32,7 @@ do{
   printf("[3] available establishments\n");
   printf("[4] My information\n");
   printf("[5] close the program\n");
-  
+  //select a number
   printf("Insert the number: ");
   scanf("%d",&op);
   if(op>5){
@@ -59,7 +59,7 @@ available();
   }while(op !=5);
   
  }
-  
+  //adding a new user/client
 void newclient(){
 time_t tiempoahora;
 time(&tiempoahora);
@@ -100,7 +100,7 @@ do
 	   age, gender, establishment,ctime(&tiempoahora));
   fclose (client);
 }
-  
+  //reading information from info.txt
 void info(){
        char line[MAX];
       printf("REMAINDER: The contracts last for 2 moths\n");
@@ -126,7 +126,7 @@ void available(){
       fclose(months);
 //untill here
   }
-  
+ //Day that expires the contract 
  void myin(){
 int d;
 int m;
