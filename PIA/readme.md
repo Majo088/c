@@ -7,7 +7,7 @@ youtube link: https://youtu.be/4qL8FhiPepc
 GDB online compiler program: https://onlinegdb.com/pGtfjddzq
 
 ##PROYECT DESCRIPTION 
-The program will try to provide information to rent the stablishments that are in the shopping center, where this same program will provide information on prices, space of the stablishment,available months,etc.
+The program will provide information to rent the stablishments that are in the shopping center, where this same program will provide information on prices, space of the stablishment,available months,etc.
 If you as a client who wants to rent this space, your data will be saved and you will be able to see what locals are available.
 
 
