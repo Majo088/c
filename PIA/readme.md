@@ -90,6 +90,7 @@ establishment #8
 
 ```
 To start the program you need to compile the files that are on my repository and then you run the program. It will appear the menu where the user will select what he or she wants to do, by just selecting a number that is showing (the menu):
+
  [1] Information: it will appear the information of the establishments that are on the mall
  
  [2] registration of a new client: here you will make the registration of the person who wants to rent by introduccing they that like; the age,gender, name, and the stablish it wants to rent. Also here they will enter the establishment that he/she wants to rent and it will appear if its available or not.
