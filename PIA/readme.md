@@ -28,11 +28,11 @@ To compile the program you need to include all the files that are on my reposito
 
 -main.c
 
--information.txt  (will include price)
+-information.txt  (will include price, the measurements and the number of the establishments) 
 
 -clientsinfo.txt  (storage and you can add people)
 
--available.txt
+-available.txt(shows the establishments that are available and theyre numbers)
 
 -file.h
 
