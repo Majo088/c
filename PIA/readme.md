@@ -14,9 +14,13 @@ If you as a client who wants to rent this space, your data will be saved and you
 ###INFORMATION STORAGE                
 ----
 The information that will be storage on the different files will be:
+
 -the prices of the establishment 
+
 -the information of the person who is renting it 
+
 -available months 
+
 -the measurements of the stablishment 
 
 #COMPILE THE PROGRAM 
